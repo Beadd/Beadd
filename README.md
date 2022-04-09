@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-VisualStudio-purple?style=flat-square&logo=visualstudio&logoColor=ffffff)](https://visualstudio.microsoft.com/vs/)
 
-[![](https://img.shields.io/badge/-C++-pink?style=flat-square&logo=C++&logoColor=white)]()
+[![](https://img.shields.io/badge/-C++-pink?style=flat-square&logo=Cplusplus&logoColor=white)]()
 [![](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
