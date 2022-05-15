@@ -1,4 +1,5 @@
 # 。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+![avatar](https://cdn.jsdelivr.net/gh/Beadd/Profile-picture/cdn/%E6%97%A5%E5%B8%B8.png)
 ### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Mi-9A-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
