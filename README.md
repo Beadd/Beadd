@@ -15,7 +15,3 @@
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
 [![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=ffffff)]()
-### Install&Uninstall
-[![](https://img.shields.io/badge/-Microsoft%20IIS-blue?style=flat-square&logo=microsoft&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/-Xshell-red?style=flat-square&logoColor=white)]()
-[![](https://img.shields.io/badge/-Android%20Studio-grey?style=flat-square&logo=androidstudio&logoColor=white)]()
