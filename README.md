@@ -1,6 +1,5 @@
-# 。。。。。。
-# 天天年年天天
 ![avatar](https://cdn.jsdelivr.net/gh/Beadd/Profile-picture/cdn/%E6%97%A5%E5%B8%B8.png)
+# 。。。。。。<br>天天年年天天
 ### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Mi-9A-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
@@ -20,5 +19,3 @@
 [![](https://img.shields.io/badge/-Microsoft%20IIS-blue?style=flat-square&logo=microsoft&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Xshell-red?style=flat-square&logoColor=white)]()
 [![](https://img.shields.io/badge/-Android%20Studio-grey?style=flat-square&logo=androidstudio&logoColor=white)]()
-[![](https://img.shields.io/badge/-C4D-black?style=flat-square&logo=Cinema%204D&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white)]()
