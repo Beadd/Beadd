@@ -1,4 +1,4 @@
-# 。。。。。。<br>天天年年天天
+# 。。。。。。天天年年天天![:beadd](https://api.moedog.org/count/@:beadd)
 [![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Mi-9A-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-red?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
