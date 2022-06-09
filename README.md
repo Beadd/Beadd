@@ -1,4 +1,4 @@
-## 天天年年天天
+## 天天年年天天.圈圈圆圆圈圈
 [![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Mi-9A-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-red?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
@@ -10,6 +10,5 @@
 [![](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
-## 圈圈圆圆圈圈
-![:beadd](https://api.moedog.org/count/@:beadd?theme=gelbooru)
+##
 ![avatar](https://cdn.jsdelivr.net/gh/Beadd/Profile-picture/cdn/%E6%97%A5%E5%B8%B8.png)
