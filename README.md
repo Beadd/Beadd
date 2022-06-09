@@ -10,7 +10,6 @@
 [![](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
-[![](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=ffffff)]()
 
 ![:beadd](https://api.moedog.org/count/@:beadd?theme=gelbooru)
 ![avatar](https://cdn.jsdelivr.net/gh/Beadd/Profile-picture/cdn/%E6%97%A5%E5%B8%B8.png)
