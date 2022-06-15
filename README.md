@@ -10,5 +10,5 @@
 [![](https://img.shields.io/badge/Windows%20Server-2012-1234c4?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-VisualStudio-purple?style=flat-square&logo=visualstudio&logoColor=ffffff)](https://visualstudio.microsoft.com/vs/)
-##
+
 ![avatar](https://cdn.jsdelivr.net/gh/Beadd/Profile-picture/cdn/%E6%97%A5%E5%B8%B8.png)
